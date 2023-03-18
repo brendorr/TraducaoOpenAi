@@ -5,3 +5,6 @@
 
 # authentications
 auth.py
+
+# ignore traduções
+ptGB.json
