@@ -4,4 +4,4 @@
 .env
 
 # authentications
-auth.json
+auth.py
